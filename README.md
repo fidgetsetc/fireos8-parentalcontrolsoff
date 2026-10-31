@@ -29,3 +29,5 @@ https://xdaforums.com/t/root-fire-hd-10-13th-generation-2023-tungsten-kftuwi-tem
 ### Fire Max 11 (13th generation)
 https://xdaforums.com/t/temp-root-fire-max-11-2023-sunstone.4798590/
 A bootloader unlock is possible for this device, and the way is public.
+## Hey, can I use this in my project?
+For sure. Use this in any project you want, just give me credit!
