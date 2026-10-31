@@ -1,4 +1,5 @@
 # FireOS 8: Parental Controls Off
+This exploit was tested with the Fire 7 12th generation temp root exploit, shown at the bottom of this README.md.
 Removes Parental Controls from FireOS 8 (tested on 8.3.3.8). Requires temp root. Gets more apps working and deletes Work Profile!
 ## Warning
 I am not responsible for any damage done to your device. Please use this responsible, and do not use this for malicious content.
