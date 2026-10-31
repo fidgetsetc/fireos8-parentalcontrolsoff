@@ -3,7 +3,7 @@ This exploit was tested with the Fire 7 12th generation temp root exploit, shown
 Removes Parental Controls from FireOS 8 (tested on 8.3.3.8). Requires temp root. Gets more apps working and deletes Work Profile!
 ## Warning
 I am not responsible for any damage done to your device. Please use this responsible, and do not use this for malicious content.
-No permanent modifications are made, and can be reset. dm-verity is not triggered.
+No permanent modifications are made (can survive a reboot), and can be reset. dm-verity is not triggered.
 ## What apps will work by using this?
 This mostly includes AI apps. More apps will be added when found.
 - Gemini
