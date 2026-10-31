@@ -1,5 +1,5 @@
 # FireOS 8: Parental Controls Off
-Removes Parental Controls from FireOS 8 (tested on 8.3.3.8). Requires temp root. Gets more apps working!
+Removes Parental Controls from FireOS 8 (tested on 8.3.3.8). Requires temp root. Gets more apps working and deletes Work Profile!
 ## Warning
 I am not responsible for any damage done to your device. Please use this responsible, and do not use this for malicious content.
 ## What apps will work by using this?
