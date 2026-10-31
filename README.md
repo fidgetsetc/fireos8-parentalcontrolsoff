@@ -1,3 +1,5 @@
+### Note
+This project was REMOVED from XDA Fourms because it was generated with AI. I understand that. It just means this project may not go far. Oh well. You win some you lose some. Nobody will really find this useful once the bootloader unlock releases, so I guess this project is useless. Just wasted a bunch of Claude time on a project that won't even go far. Almost nothing I do goes far. All I want to do is help people get their stuff freed, even if I don't entirely know how to code.gtj uuuugjgooooooooooowpote'[t]94
 # FireOS 8: Parental Controls Off
 This exploit was tested with the Fire 7 12th generation temp root exploit, shown at the bottom of this README.md.
 Removes Parental Controls from FireOS 8 (tested on 8.3.3.8). Requires temp root. Gets more apps working and deletes Work Profile!
