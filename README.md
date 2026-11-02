@@ -6,6 +6,7 @@ Removes Parental Controls from FireOS 8 (tested on 8.3.3.8). Requires temp root.
 ## Warning
 I am not responsible for any damage done to your device. Please use this responsible, and do not use this for malicious content.
 No permanent modifications are made (can survive a reboot), and can be reset. dm-verity is not triggered.
+This may not work on your device, but it should work if you use a similar FireOS version.
 ## READ THIS.
 Pleae do NOT use this to bypass Parental Controls restrictions if Parental Controls is turned on. That is not the intended purpose--this is meant to get more apps working, as Parental Controls being the profile/device admin causes Work Profile, which makes some apps not work.
 ## What apps will work by using this?
