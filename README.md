@@ -6,7 +6,7 @@ Removes Parental Controls from FireOS 8 (tested on 8.3.3.8). Requires temp root.
 ## Warning
 I am not responsible for any damage done to your device. Please use this responsible, and do not use this for malicious content.
 No permanent modifications are made (can survive a reboot), and can be reset. dm-verity is not triggered.
-This may not work on your device, but it should work if you use a similar FireOS version.
+This may not work on your device, but it should work if you use a similar FireOS version. I cannot ensure that this works with every FireOS device, let alone every 12th and 13th gen device, but attempting this should not harm your device. You should still backup any important data just in case, as stuff that needs root has the potential to break something.
 ## READ THIS.
 Pleae do NOT use this to bypass Parental Controls restrictions if Parental Controls is turned on. That is not the intended purpose--this is meant to get more apps working, as Parental Controls being the profile/device admin causes Work Profile, which makes some apps not work. If you are the parent of your kid, and you discover this repository, please make sure your child does not have access to Developer Options or USB Debugging.
 ## What apps will work by using this?
@@ -26,8 +26,8 @@ Yes, particularly using Claude.
 - Run the remove.sh (remove.bat if using Windows) script.
 - Now it should be running! Enjoy.
 ## How do I get temporary root, anyway?
-These contain links to temporary root exploits for different FireOS 8 devices. I have not checked the safety of thse, proceed with caution. Know that your software version may not be supported:
-### Fire 7 (12th generation)
+These contain links to temporary root exploits for different FireOS 8 devices. I have not checked the safety of most of these, proceed with caution. Know that your software version may not be supported:
+### Fire 7 (12th generation) (KNOWN WORKING IN MY TESTING)
 https://xdaforums.com/t/root-amazon-fire-7-2022-12th-gen.4807113/
 A bootloader unlock is possible for this device, however the way currently is not public as of 10/31/2026.
 ### Fire HD 8 (12th generation)
